@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 Hello I'm Manoprasanth 👋 I'm an aspiring Software Engineer.
 
-- 🎯 Currently focusing on Data structures and Web Development.
+- 🎯 Currently focusing on Data structures and learning Web Development.
 - 🗣 You can find me on [Linkedin](https://www.linkedin.com/in/manoprasanth-mathavan-320540253/).
 - 🔥 Maintaing streaks at [Leetcode](https://leetcode.com/mklno/)
 - 🧭 Exploring tech and literature.
